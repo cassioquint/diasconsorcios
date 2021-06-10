@@ -5,14 +5,12 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
-    "start": "node index.js",
-    "vercel-build": "./vercel-submodule-workaround.sh && npm run vercel-build"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
     "next": "^10.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
