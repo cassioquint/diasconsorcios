@@ -1,12 +1,13 @@
-import Link from 'next/Link';
+import next from "next";
+import NextLink from "next/link";
 
 function Sobre() {
     return (<div>
         <h1>Sobre</h1>
 
-        <Link href="/">
+        <NextLink href="/">
             <a>Página Inicial</a>
-        </Link>
+        </NextLink>
     </div>)
     
 }
