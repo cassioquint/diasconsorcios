@@ -7,6 +7,9 @@ function Home() {
 
         <NextLink href="/sobre">
             <a>Sobre</a>
+        </NextLink><br/>
+        <NextLink href="/tempo">
+            <a>Tempo</a>
         </NextLink>
     </div>)
     

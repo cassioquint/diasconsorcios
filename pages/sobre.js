@@ -7,6 +7,9 @@ function Sobre() {
 
         <NextLink href="/">
             <a>Página Inicial</a>
+        </NextLink><br/>
+        <NextLink href="/tempo">
+            <a>Tempo</a>
         </NextLink>
     </div>)
     
